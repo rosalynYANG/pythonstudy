@@ -9,3 +9,7 @@ dependencies:
     - matplotlib
     - pandas
     - thinc
+    - xlrd
+    - xlwt
+    - xlutils
+    
